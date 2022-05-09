@@ -3,6 +3,9 @@
 .idea
 .vscode
 
+# Dev notes and scripts ignores
+dev-notes.txt
+
 # Logs
 logs
 *.log
