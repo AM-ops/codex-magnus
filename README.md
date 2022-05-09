@@ -17,4 +17,6 @@ Below is a list summarising his principles
 7. Is long-lasting
 8. Is thorough down to the last detail
 9. Is environmentally friendly
-10. Is as little design as possible 
+10. Is as little design as possible
+
+More information can be found [here](https://www.vitsoe.com/us/about/good-design)
