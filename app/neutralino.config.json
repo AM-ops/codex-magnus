@@ -9,8 +9,8 @@
   "enableNativeAPI": true,
   "tokenSecurity": "one-time",
   "logging": {
-    "enabled": true,
-    "writeToLogFile": true
+    "enabled": false,
+    "writeToLogFile": false
   },
   "nativeAllowList": [
     "app.*",
@@ -31,19 +31,21 @@
   },
   "modes": {
     "window": {
-      "title": "app",
-      "width": 800,
+      "title": "Principles of Good Design",
+      "width": 1000,
       "height": 500,
-      "minWidth": 400,
-      "minHeight": 200,
+      "minWidth": 1000,
+      "minHeight": 500,
+      "maxWidth": 1000,
+      "maxHeight": 500,
       "fullScreen": false,
-      "alwaysOnTop": false,
+      "alwaysOnTop": true,
       "icon": "/resources/icons/appIcon.png",
-      "enableInspector": true,
+      "enableInspector": false,
       "borderless": false,
       "maximize": false,
       "hidden": false,
-      "resizable": true,
+      "resizable": false,
       "exitProcessOnClose": false
     },
     "browser": {
