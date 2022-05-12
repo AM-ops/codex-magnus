@@ -26,17 +26,17 @@ More information can be found [here](https://www.vitsoe.com/us/about/good-design
 
 ## Application
 
-The app explains the 10 Principles of Good Design in detail using a slideshow format.
+The app explains the _10 Principles of Good Design_ in detail using a slideshow format.
 
 ### Framework
 
 The framework used was [Neutralinojs](https://neutralino.js.org/)
 
-It helps build build lightweight cross-platform desktop apps with JavaScript, HTML, and CSS
+It helps build lightweight cross-platform desktop apps with JavaScript, HTML, and CSS
 
-## Binaries
+### Binaries
 
-To run the application simple download and run the executable for your relevant Operating System.
+To run the application simply download and run the executable for your relevant Operating System.
 
 They are found in the `app/dist/app` directory of this repository.
 
