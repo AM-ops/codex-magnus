@@ -40,8 +40,8 @@ To run the application simple download and run the executable for your relevant 
 
 They are found in the `app/dist/app` directory of this repository.
 
-Windows: [app/dist/app/app-win_x64.exe](app/dist/app/app-win_x64.exe)
+Windows: [app/dist/app/app-win_x64.exe](https://github.com/AM-ops/codex-magnus/raw/main/app/dist/app/app-win_x64.exe)
 
-Linux: [app/dist/app/app-linux_x64](app/dist/app/app-linux_x64)
+Linux: [app/dist/app/app-linux_x64](https://github.com/AM-ops/codex-magnus/raw/main/app/dist/app/app-linux_x64)
 
-Mac: [app/dist/app/app-mac_x64.app](app/dist/app/app-mac_x64.app)
+Mac: [app/dist/app/app-mac_x64.app](https://github.com/AM-ops/codex-magnus/raw/main/app/dist/app/app-mac_x64.app)
