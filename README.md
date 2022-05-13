@@ -43,6 +43,7 @@ They are found in the `app/dist/app` directory of this repository. To download a
 [app/dist/app-release.zip](https://github.com/AM-ops/codex-magnus/raw/main/app/dist/app-release.zip)
 
 Windows: [app/dist/app/app-win_x64.exe](https://github.com/AM-ops/codex-magnus/raw/main/app/dist/app/app-win_x64.exe)
+
 Note: For Windows make sure to download the [app/dist/app/WebView2Loader.dll](https://github.com/AM-ops/codex-magnus/raw/main/app/dist/app/WebView2Loader.dll) as well.
 
 Linux: [app/dist/app/app-linux_x64](https://github.com/AM-ops/codex-magnus/raw/main/app/dist/app/app-linux_x64)
