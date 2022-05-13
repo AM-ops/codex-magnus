@@ -38,9 +38,12 @@ It helps build lightweight cross-platform desktop apps with JavaScript, HTML, an
 
 To run the application simply download and run the executable for your relevant Operating System.
 
-They are found in the `app/dist/app` directory of this repository.
+They are found in the `app/dist/app` directory of this repository. To download a zip file of all the binaries you can find it here:
+
+[app/dist/app-release.zip](https://github.com/AM-ops/codex-magnus/raw/main/app/dist/app-release.zip)
 
 Windows: [app/dist/app/app-win_x64.exe](https://github.com/AM-ops/codex-magnus/raw/main/app/dist/app/app-win_x64.exe)
+Note: For Windows make sure to download the [app/dist/app/WebView2Loader.dll](https://github.com/AM-ops/codex-magnus/raw/main/app/dist/app/WebView2Loader.dll) as well.
 
 Linux: [app/dist/app/app-linux_x64](https://github.com/AM-ops/codex-magnus/raw/main/app/dist/app/app-linux_x64)
 
